@@ -3,9 +3,9 @@ Bearcat Bites is an innovative app concept aimed at addressing dining hall chall
 Problem Statement
 Dining services at many campuses often lack sufficient information on:
 
-Dietary and healthy food options.
-Current menus and nutritional facts.
-Efficient navigation for new students and staff.
+1. Dietary and healthy food options.
+2. Current menus and nutritional facts.
+3. Efficient navigation for new students and staff.
 Additionally, busy schedules and unpredictable traffic at dining halls create challenges for many users.
 
 Solution Overview
