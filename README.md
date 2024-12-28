@@ -17,21 +17,21 @@ Bearcat Bites aims to address these issues with a comprehensive dining hall app 
 4. Dining hall events and hours.
 
  Key Features
- Home Page
-View all dining halls sorted by status, distance, or traffic.
-Search across dining hall menus.
+1. Home Page
+2. View all dining halls sorted by status, distance, or traffic.
+3. Search across dining hall menus.
 
 Dining Hall Details
-Daily menus with filtering options for diets/allergens.
-Traffic data and holiday-adjusted hours.
-Event information specific to each dining hall.
+1. Daily menus with filtering options for diets/allergens.
+2. Traffic data and holiday-adjusted hours.
+3. Event information specific to each dining hall.
 
 Navigation
-Interactive map with optimized routes for campus-specific pathways.
+1. Interactive map with optimized routes for campus-specific pathways.
 
 Enhanced Accessibility
-Outlined and prominent clickable features.
-Availability markers for food items.
+1. Outlined and prominent clickable features.
+2. Availability markers for food items.
 
 Reflection and Learnings
 This project provided valuable insights into:
